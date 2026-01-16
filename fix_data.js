@@ -1,3 +1,4 @@
+/* eslint-env node */
 const fs = require('fs');
 const path = 'src/data/mockData.js';
 
